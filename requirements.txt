@@ -1,0 +1,10 @@
+tensorflow
+matplotlib
+numpy
+pillow
+keras
+ipython
+glob2
+imageio
+gdown
+zipfile39
