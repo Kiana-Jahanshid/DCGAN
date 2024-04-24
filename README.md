@@ -18,11 +18,6 @@ DCGAN is typically trained using batch normalization and __transposed convolutio
 ```
 pip install -r requirements.txt
 ```
-# How to run :
-```
-python file.ipynb 
-```
-
 
 <br>
 <br>
